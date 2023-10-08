@@ -1,4 +1,7 @@
-![index page](https://github.com/https://github.com/SAGAR-TAMANG/vr-product-showcase-website/blob/main/img/VR Product Showcase Website.png?raw=true)
+
+![VR Product Showcase Website](https://github.com/SAGAR-TAMANG/vr-product-showcase-website/assets/100279896/e56f39f3-229a-4cee-936a-f232e9234aeb)
+
+![index page](https://github.com/https://github.com/SAGAR-TAMANG/vr-product-showcase-website/img/VR Product Showcase Website.png?raw=true)
 
 ### RESOURCES FROM
 - UI Design inspiration from: [Behance](https://www.behance.net/gallery/176758915/VR-UI-Design-?tracking_source=project_owner_other_projects&)
